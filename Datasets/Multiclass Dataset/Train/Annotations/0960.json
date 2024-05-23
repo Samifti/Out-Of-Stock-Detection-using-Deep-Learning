@@ -1,0 +1,125 @@
+[
+    {
+        "image": "0960.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 151.71009771986974,
+                    "y": 84.17426710097722,
+                    "width": 14.0,
+                    "height": 25.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 172.71009771986974,
+                    "y": 85.17426710097722,
+                    "width": 10.0,
+                    "height": 23.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 225.71009771986974,
+                    "y": 198.1742671009772,
+                    "width": 32.0,
+                    "height": 17.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 260.71009771986974,
+                    "y": 197.1742671009772,
+                    "width": 30.0,
+                    "height": 9.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 121.21009771986974,
+                    "y": 195.1742671009772,
+                    "width": 33.0,
+                    "height": 13.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 155.21009771986974,
+                    "y": 194.1742671009772,
+                    "width": 27.0,
+                    "height": 15.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 118.21009771986974,
+                    "y": 161.1742671009772,
+                    "width": 33.0,
+                    "height": 9.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 203.71009771986974,
+                    "y": 168.6742671009772,
+                    "width": 36.0,
+                    "height": 12.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 177.71009771986974,
+                    "y": 258.1742671009772,
+                    "width": 32.0,
+                    "height": 25.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 270.71009771986974,
+                    "y": 253.1742671009772,
+                    "width": 44.0,
+                    "height": 11.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 83.9423076923077,
+                    "y": 168.17948717948718,
+                    "width": 20.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 288.9423076923077,
+                    "y": 149.17948717948718,
+                    "width": 16.0,
+                    "height": 17.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 267.9423076923077,
+                    "y": 25.679487179487182,
+                    "width": 24.0,
+                    "height": 24.000000000000004
+                }
+            }
+        ]
+    }
+]

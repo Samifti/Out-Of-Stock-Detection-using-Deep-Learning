@@ -1,0 +1,134 @@
+[
+    {
+        "image": "1418.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 198.01990632318507,
+                    "y": 98.2658079625293,
+                    "width": 25.0,
+                    "height": 23.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 95.01990632318505,
+                    "y": 235.7658079625293,
+                    "width": 19.0,
+                    "height": 22.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 162.51990632318507,
+                    "y": 238.2658079625293,
+                    "width": 54.0,
+                    "height": 27.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 217.01990632318507,
+                    "y": 237.7658079625293,
+                    "width": 11.0,
+                    "height": 26.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 286.75995316159253,
+                    "y": 238.2658079625293,
+                    "width": 26.48009367681493,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 258.51990632318507,
+                    "y": 185.2658079625293,
+                    "width": 16.0,
+                    "height": 11.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 25.019906323185054,
+                    "y": 189.2658079625293,
+                    "width": 25.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 177.01990632318507,
+                    "y": 210.2658079625293,
+                    "width": 19.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 85.51990632318505,
+                    "y": 96.7658079625293,
+                    "width": 18.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 91.01990632318505,
+                    "y": 181.2658079625293,
+                    "width": 21.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 200.51990632318507,
+                    "y": 236.7658079625293,
+                    "width": 24.0,
+                    "height": 22.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 286.01990632318507,
+                    "y": 209.2658079625293,
+                    "width": 19.0,
+                    "height": 23.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 235.01990632318507,
+                    "y": 157.2658079625293,
+                    "width": 15.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 119.51990632318507,
+                    "y": 128.7658079625293,
+                    "width": 18.000000000000014,
+                    "height": 20.0
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "image": "1278.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 47.44230769230769,
+                    "y": 59.67948717948718,
+                    "width": 13.0,
+                    "height": 20.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 156.01990632318507,
+                    "y": 146.7658079625293,
+                    "width": 39.0,
+                    "height": 16.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 238.51990632318507,
+                    "y": 169.2658079625293,
+                    "width": 76.0,
+                    "height": 17.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 38.019906323185054,
+                    "y": 177.2658079625293,
+                    "width": 31.0,
+                    "height": 15.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 46.519906323185054,
+                    "y": 202.7658079625293,
+                    "width": 14.0,
+                    "height": 14.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 33.519906323185054,
+                    "y": 122.2658079625293,
+                    "width": 40.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 209.01990632318507,
+                    "y": 119.7658079625293,
+                    "width": 29.0,
+                    "height": 18.0
+                }
+            }
+        ]
+    }
+]

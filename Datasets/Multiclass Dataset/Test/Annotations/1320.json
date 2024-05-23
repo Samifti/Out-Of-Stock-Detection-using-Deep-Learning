@@ -1,0 +1,71 @@
+[
+    {
+        "image": "1320.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 163.21009771986974,
+                    "y": 180.6742671009772,
+                    "width": 131.0,
+                    "height": 94.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 166.71009771986974,
+                    "y": 90.6742671009772,
+                    "width": 46.0,
+                    "height": 79.99999999999999
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 221.71009771986974,
+                    "y": 265.1742671009772,
+                    "width": 148.0,
+                    "height": 69.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 50.71009771986974,
+                    "y": 262.1742671009772,
+                    "width": 66.0,
+                    "height": 69.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 61.21009771986974,
+                    "y": 176.6742671009772,
+                    "width": 27.0,
+                    "height": 82.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 28.210097719869736,
+                    "y": 174.6742671009772,
+                    "width": 47.0,
+                    "height": 76.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 108.21009771986974,
+                    "y": 14.674267100977218,
+                    "width": 27.0,
+                    "height": 28.0
+                }
+            }
+        ]
+    }
+]

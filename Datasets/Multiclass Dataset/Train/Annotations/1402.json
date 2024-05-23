@@ -1,0 +1,71 @@
+[
+    {
+        "image": "1402.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 57.519906323185054,
+                    "y": 80.2658079625293,
+                    "width": 18.0,
+                    "height": 27.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 236.01990632318507,
+                    "y": 40.2658079625293,
+                    "width": 15.0,
+                    "height": 27.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 103.01990632318505,
+                    "y": 233.7658079625293,
+                    "width": 15.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 199.01990632318507,
+                    "y": 235.2658079625293,
+                    "width": 15.0,
+                    "height": 25.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 53.519906323185054,
+                    "y": 116.7658079625293,
+                    "width": 32.0,
+                    "height": 28.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 116.01990632318505,
+                    "y": 41.7658079625293,
+                    "width": 11.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 284.25995316159253,
+                    "y": 44.7658079625293,
+                    "width": 31.48009367681493,
+                    "height": 34.0
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "image": "0206.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 96.21009771986974,
+                    "y": 109.67426710097722,
+                    "width": 59.0,
+                    "height": 32.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 152.21009771986974,
+                    "y": 104.17426710097722,
+                    "width": 19.0,
+                    "height": 35.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 201.71009771986974,
+                    "y": 99.17426710097722,
+                    "width": 42.0,
+                    "height": 27.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 111.71009771986974,
+                    "y": 227.1742671009772,
+                    "width": 38.0,
+                    "height": 33.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 159.21009771986974,
+                    "y": 218.1742671009772,
+                    "width": 21.0,
+                    "height": 31.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 190.21009771986974,
+                    "y": 211.6742671009772,
+                    "width": 15.0,
+                    "height": 30.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 222.21009771986974,
+                    "y": 210.6742671009772,
+                    "width": 11.0,
+                    "height": 20.0
+                }
+            }
+        ]
+    }
+]

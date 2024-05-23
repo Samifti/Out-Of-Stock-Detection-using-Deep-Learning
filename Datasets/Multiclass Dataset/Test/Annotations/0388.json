@@ -1,0 +1,35 @@
+[
+    {
+        "image": "0388.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 166.44230769230768,
+                    "y": 152.17948717948718,
+                    "width": 5.0,
+                    "height": 17.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 294.4711538461538,
+                    "y": 40.67948717948718,
+                    "width": 11.05769230769232,
+                    "height": 16.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 170.94230769230768,
+                    "y": 54.67948717948718,
+                    "width": 12.0,
+                    "height": 12.0
+                }
+            }
+        ]
+    }
+]

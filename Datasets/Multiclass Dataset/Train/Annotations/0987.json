@@ -1,0 +1,152 @@
+[
+    {
+        "image": "0987.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 219.71009771986974,
+                    "y": 224.1742671009772,
+                    "width": 16.0,
+                    "height": 17.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 171.71009771986974,
+                    "y": 196.6742671009772,
+                    "width": 10.0,
+                    "height": 26.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 165.21009771986974,
+                    "y": 230.1742671009772,
+                    "width": 15.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 216.71009771986974,
+                    "y": 195.6742671009772,
+                    "width": 18.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 184.71009771986974,
+                    "y": 260.1742671009772,
+                    "width": 18.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 258.71009771986974,
+                    "y": 257.6742671009772,
+                    "width": 12.0,
+                    "height": 18.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 274.21009771986974,
+                    "y": 226.6742671009772,
+                    "width": 15.0,
+                    "height": 18.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 233.21009771986974,
+                    "y": 128.6742671009772,
+                    "width": 13.0,
+                    "height": 21.999999999999986
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 222.71009771986974,
+                    "y": 253.1742671009772,
+                    "width": 10.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 91.21009771986974,
+                    "y": 179.1742671009772,
+                    "width": 31.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 58.21009771986974,
+                    "y": 148.6742671009772,
+                    "width": 15.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 53.21009771986974,
+                    "y": 257.6742671009772,
+                    "width": 47.0,
+                    "height": 20.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 51.71009771986974,
+                    "y": 233.1742671009772,
+                    "width": 34.0,
+                    "height": 13.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 165.71009771986974,
+                    "y": 256.6742671009772,
+                    "width": 22.0,
+                    "height": 20.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 212.71009771986974,
+                    "y": 255.6742671009772,
+                    "width": 12.0,
+                    "height": 22.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 235.71009771986974,
+                    "y": 228.1742671009772,
+                    "width": 22.0,
+                    "height": 23.0
+                }
+            }
+        ]
+    }
+]

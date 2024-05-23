@@ -1,0 +1,134 @@
+[
+    {
+        "image": "1194.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 52.21009771986974,
+                    "y": 183.1742671009772,
+                    "width": 25.0,
+                    "height": 13.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 77.21009771986974,
+                    "y": 225.6742671009772,
+                    "width": 13.0,
+                    "height": 18.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 157.21009771986974,
+                    "y": 122.1742671009772,
+                    "width": 31.0,
+                    "height": 18.999999999999986
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 251.71009771986974,
+                    "y": 159.6742671009772,
+                    "width": 28.0,
+                    "height": 10.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 69.21009771986974,
+                    "y": 158.1742671009772,
+                    "width": 61.0,
+                    "height": 11.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 55.21009771986974,
+                    "y": 140.1742671009772,
+                    "width": 37.0,
+                    "height": 9.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 161.71009771986974,
+                    "y": 139.6742671009772,
+                    "width": 36.0,
+                    "height": 14.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 194.21009771986974,
+                    "y": 117.67426710097722,
+                    "width": 31.0,
+                    "height": 10.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 178.71009771986974,
+                    "y": 229.1742671009772,
+                    "width": 22.0,
+                    "height": 17.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 117.21009771986974,
+                    "y": 228.1742671009772,
+                    "width": 13.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 170.21009771986974,
+                    "y": 204.1742671009772,
+                    "width": 15.0,
+                    "height": 15.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 223.21009771986974,
+                    "y": 143.6742671009772,
+                    "width": 33.0,
+                    "height": 14.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 283.21009771986974,
+                    "y": 202.1742671009772,
+                    "width": 29.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 9.710097719869736,
+                    "y": 181.6742671009772,
+                    "width": 12.0,
+                    "height": 20.0
+                }
+            }
+        ]
+    }
+]

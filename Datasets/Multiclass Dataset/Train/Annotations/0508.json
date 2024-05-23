@@ -1,0 +1,17 @@
+[
+    {
+        "image": "0508.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 97.4423076923077,
+                    "y": 249.17948717948718,
+                    "width": 53.0,
+                    "height": 43.0
+                }
+            }
+        ]
+    }
+]

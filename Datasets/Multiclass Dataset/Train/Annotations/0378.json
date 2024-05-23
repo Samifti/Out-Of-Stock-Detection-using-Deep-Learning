@@ -1,0 +1,134 @@
+[
+    {
+        "image": "0378.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 118.51990632318507,
+                    "y": 231.7658079625293,
+                    "width": 40.000000000000014,
+                    "height": 22.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 178.01990632318507,
+                    "y": 192.7658079625293,
+                    "width": 35.0,
+                    "height": 12.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 242.51990632318507,
+                    "y": 186.2658079625293,
+                    "width": 54.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 281.01990632318507,
+                    "y": 179.7658079625293,
+                    "width": 25.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 194.51990632318507,
+                    "y": 106.2658079625293,
+                    "width": 54.0,
+                    "height": 19.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 237.51990632318507,
+                    "y": 112.2658079625293,
+                    "width": 20.0,
+                    "height": 27.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 115.51990632318507,
+                    "y": 177.2658079625293,
+                    "width": 36.000000000000014,
+                    "height": 13.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 127.01990632318507,
+                    "y": 51.265807962529294,
+                    "width": 69.00000000000001,
+                    "height": 46.99999999999999
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 182.01990632318507,
+                    "y": 37.2658079625293,
+                    "width": 33.0,
+                    "height": 21.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 147.01990632318507,
+                    "y": 110.2658079625293,
+                    "width": 33.0,
+                    "height": 45.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 65.01990632318505,
+                    "y": 111.2658079625293,
+                    "width": 123.0,
+                    "height": 27.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 95.01990632318505,
+                    "y": 163.7658079625293,
+                    "width": 153.0,
+                    "height": 12.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 77.01990632318507,
+                    "y": 223.7658079625293,
+                    "width": 105.00000000000001,
+                    "height": 26.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 281.25995316159253,
+                    "y": 46.7658079625293,
+                    "width": 37.48009367681493,
+                    "height": 26.0
+                }
+            }
+        ]
+    }
+]

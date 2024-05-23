@@ -1,0 +1,44 @@
+[
+    {
+        "image": "0870.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 185.51990632318507,
+                    "y": 280.7658079625293,
+                    "width": 20.0,
+                    "height": 30.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 246.01990632318507,
+                    "y": 284.7658079625293,
+                    "width": 21.0,
+                    "height": 24.0
+                }
+            },
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 84.01990632318505,
+                    "y": 237.7658079625293,
+                    "width": 31.0,
+                    "height": 14.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 65.51990632318505,
+                    "y": 277.7658079625293,
+                    "width": 38.0,
+                    "height": 30.0
+                }
+            }
+        ]
+    }
+]

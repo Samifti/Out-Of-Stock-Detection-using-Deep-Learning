@@ -1,0 +1,26 @@
+[
+    {
+        "image": "1295.png",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Disorganized",
+                "coordinates": {
+                    "x": 111.44230769230768,
+                    "y": 184.67948717948718,
+                    "width": 38.999999999999986,
+                    "height": 82.0
+                }
+            },
+            {
+                "label": "Empty",
+                "coordinates": {
+                    "x": 249.44230769230768,
+                    "y": 61.17948717948718,
+                    "width": 27.0,
+                    "height": 103.0
+                }
+            }
+        ]
+    }
+]

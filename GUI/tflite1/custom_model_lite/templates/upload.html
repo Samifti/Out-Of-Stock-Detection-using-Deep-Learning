@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Media</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f4f8;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        .container h1 {
+            font-size: 24px;
+            color: #444;
+            margin-bottom: 20px;
+        }
+        .container form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container select, 
+        .container input[type="file"], 
+        .container button {
+            margin-bottom: 20px;
+            padding: 10px;
+            width: 100%;
+            max-width: 300px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        .container button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .container button:hover {
+            background-color: #0056b3;
+        }
+        .media-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .media-container img, 
+        .media-container video {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .loading {
+            display: none;
+            margin-top: 20px;
+            font-size: 18px;
+            color: #007bff;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            .container h1 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Supermarket Stock Detection</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <select name="mediaType" id="mediaType" required>
+                <option value="image">Image</option>
+                <option value="video">Video</option>
+            </select>
+            <input type="file" name="file" accept="image/*,video/*" required>
+            <button type="submit">Detect</button>
+        </form>
+        <div class="loading" id="loading">Processing...</div>
+        <div class="media-container" id="mediaContainer"></div>
+    </div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('mediaContainer').innerHTML = '';
+
+            const formData = new FormData(this);
+            const response = await fetch('/', {
+                method: 'POST',
+                body: formData
+            });
+
+            document.getElementById('loading').style.display = 'none';
+            const result = await response.json();
+            const mediaUrl = result.media_url;
+            const mediaType = result.media_type;
+
+            const mediaContainer = document.getElementById('mediaContainer');
+            if (mediaType === 'image') {
+                mediaContainer.innerHTML = `<h2>Detected Image:</h2><img src="${mediaUrl}" alt="Detected Image">`;
+            } else if (mediaType === 'video') {
+                mediaContainer.innerHTML = `<h2>Detected Video:</h2><video controls><source src="${mediaUrl}" type="video/mp4"></video>`;
+            }
+        });
+    </script>
+</body>
+</html>

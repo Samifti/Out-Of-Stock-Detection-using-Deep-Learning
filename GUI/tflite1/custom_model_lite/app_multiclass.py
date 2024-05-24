@@ -5,8 +5,8 @@ from tensorflow.lite.python.interpreter import Interpreter
 import os
 
 # Define paths to your model and label files
-MODEL_PATH = "C:/Users/SAAD COMPUTER/OneDrive/Documents/tflite1/custom_model_lite/detect.tflite"
-LABEL_PATH = "C:/Users/SAAD COMPUTER/OneDrive/Documents/tflite1/custom_model_lite/labelmap.txt"
+MODEL_PATH = "/detect.tflite"
+LABEL_PATH = "/labelmap.txt"
 
 # Function to load the TFLite model and labels
 def load_model():
